@@ -1,1 +1,1 @@
-"# MLBResearch" 
+# MLBResearch
